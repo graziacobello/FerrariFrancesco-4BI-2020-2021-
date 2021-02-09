@@ -2,7 +2,7 @@
 site_name: Ferrari_Francesco
 
 nav:
-    - 'Test': 'test.'
+     - 'Test': 'test.'
     
 theme:
       name : readthedocs
