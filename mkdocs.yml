@@ -1,8 +1,8 @@
+site_name: Soffiati_Lorenzo 
+nav: 
 
-site_name: Ferrari_Francesco
+     - 'Test': 'test.txt' 
 
-nav:
-     - 'Test': 'test.'
-    
-theme:
-      name : readthedocs
+theme: 
+
+     name : readthedocs 
